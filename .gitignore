@@ -35,6 +35,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock.json
+README.md 
+netlify.toml
 
 # Typescript v1 declaration files
 typings/
@@ -57,9 +60,13 @@ typings/
 # gatsby files
 .cache/
 public
+gatsby-config.js
+gatsby-node.js
+config.js 
 
 # Mac files
 .DS_Store
+notes.txt
 
 # Yarn
 yarn-error.log

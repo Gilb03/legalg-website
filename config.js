@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
+  siteTitle: 'Attorney at Law', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
@@ -9,11 +9,11 @@ module.exports = {
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
   disqusShortname: 'gatsby-business-starter', // Disqus shortname.
-  userName: 'Vaibhav Sharma',
+  userName: 'Gilbert King',
   userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
+  userLocation: 'Gary, Indiana',
   userDescription: '',
-  copyright: 'Copyright © Gatsby Starter Business 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © Gilbert King Jr. P.C. 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
   cookieConsent: 'This website uses cookies which are used to collect anonymous information to improve your browsing experience and for analytics and metrics.', // @TODO Add GDPR Cookie Consent

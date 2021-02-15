@@ -1,0 +1,13 @@
+to do's 
+1. Adjust the content in the about Me section src < pages < index.md 
+1.5. Finish the navbar ✅
+2. Figure out how to get the email adjusted on the contact page
+3. Destroy or hide the pricing page. ✅
+4. Destroy or hide the Blog page ✅
+
+
+Home Page 
+	Hide the search bar ✅
+	adjust the jpegs and accompanying text
+7. Partner with Dad for pictures in home page 
+8. Deploy 

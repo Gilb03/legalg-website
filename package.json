@@ -13,7 +13,7 @@
     "clean": "rm -rf public/ .cache/"
   },
   "repository": "https://github.com/v4iv/gatsby-starter-business",
-  "author": "Vaibhav Sharma <vaibhavsharmaatwork@gmail.com>",
+  "author": "Gilbert King <gilbertking91@gmail.com>",
   "license": "MIT",
   "private": false,
   "remarkConfig": {
